@@ -32,7 +32,7 @@ vector<int> findArraySum(vector<int>&a, int n, vector<int>&b, int m) {
 		j--;
 	}
 
-	//case1 ->if 1st array is larger
+	//case1 -> if 1st array is larger
 	while(i>=0){
 		int sum=a[i]+carry;
 		carry=sum/10;
