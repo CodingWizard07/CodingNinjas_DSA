@@ -16,28 +16,28 @@ Constraints:
 
 Time Limit: 1 sec
 Sample Input 1:
-2
-4 1 
-1 2 3 4
-6
-3 2
-1 2 3
-9 9    
-Sample Output 1:
-1 2 4 0
-2 2 2
+2 <br>
+4 1 <br>
+1 2 3 4 <br>
+6 <br>
+3 2 <br>
+1 2 3 <br>
+9 9 <br>   
+Sample Output 1: 
+1 2 4 0 <br>
+2 2 2 <br>
 Explanation For Sample Input 1:
 For the first test case, the integer represented by the first array is 1234 and the second array is 6, so the sum is 1234 + 6 =  1240.
 
 For the second test case, the integer represented by the first array is 123 and the second array is 99, so the sum is 123 + 99 = 222.
 Sample Input 2:
-2
-3 3 
-4 5 1
-3 4 5
-2 2
-1 1
-1 2
-Sample Output 2:
-7 9 6
-2 3
+2 <br>
+3 3 <br> 
+4 5 1 <br>
+3 4 5 <br>
+2 2 <br>
+1 1 <br>
+1 2 <br>
+Sample Output 2: <br>
+7 9 6 <br>
+2 3 <br>
