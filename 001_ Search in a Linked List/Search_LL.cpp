@@ -1,6 +1,4 @@
-/****************************************************************
 
-    Following is the class structure of the Node class:
 
     template <typename T>
     class Node
