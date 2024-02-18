@@ -1,4 +1,4 @@
-Problem statement
+Problem statement<br>
 You have been given a string 'STR' of words. You need to replace all the spaces between words with “@40”.
 
 Detailed explanation ( Input/output format, Notes, Images )
